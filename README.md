@@ -31,4 +31,4 @@ make -j$NUMBER_OF_PROCESSOR
 ```
 After the above steps, your contracts have been built and stored in `eosio.contracts/build` directory. Each contract has a folder that includes a `wasm` and `abi` file; which will be used for contract deployment on the blockchain.
 ## References
-* _How to build the eosio.contracts_, EOS Developers, viewed 20 Feb 2020, <<hhttps://developers.eos.io/manuals/eosio.contracts/latest/build-and-deploy>>.
+* _How to build the eosio.contracts_, EOS Developers, viewed 20 Feb 2020, <<https://developers.eos.io/manuals/eosio.contracts/latest/build-and-deploy>>.
