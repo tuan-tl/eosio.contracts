@@ -1,5 +1,5 @@
 # EOSIO System Contracts
-This is a step-by-step guideline to build EOSIO system contracts.
+
 ## Dependencies
 Please make sure you have installed the below dependencies:
 * [EOSIO]()
